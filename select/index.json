@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "With All My Heart",
+  "base_artist": "ILLENIUM和JVKE",
+  "createdAt": "2026-04-03T16:29:39.118780Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "With All My Heart",
+      "artist": "ILLENIUM",
+      "has_synced": true,
+      "path": "select/01_With_All_My_Heart_ILLENIUM.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "With All My Heart",
+      "artist": "JVKE",
+      "has_synced": true,
+      "path": "select/02_With_All_My_Heart_JVKE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "With all my heart",
+      "artist": "Ken",
+      "has_synced": true,
+      "path": "select/03_With_all_my_heart_Ken.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "With All My Heart",
+      "artist": "ILLENIUM/JVKE",
+      "has_synced": true,
+      "path": "select/04_With_All_My_Heart_ILLENIUM_JVKE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "With All My Heart",
+      "artist": "Planetshakers",
+      "has_synced": true,
+      "path": "select/05_With_All_My_Heart_Planetshakers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "With All My Heart",
+      "artist": "Petula Clark",
+      "has_synced": true,
+      "path": "select/06_With_All_My_Heart_Petula_Clark.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "With All My Heart",
+      "artist": "Bebe Winans",
+      "has_synced": true,
+      "path": "select/07_With_All_My_Heart_Bebe_Winans.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "With All My Heart",
+      "artist": "Dream Street",
+      "has_synced": true,
+      "path": "select/08_With_All_My_Heart_Dream_Street.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "With All My Heart",
+      "artist": "Clem Snide",
+      "has_synced": false,
+      "path": "select/09_With_All_My_Heart_Clem_Snide.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love You With All My Heart",
+      "artist": "Crush",
+      "has_synced": true,
+      "path": "select/10_Love_You_With_All_My_Heart_Crush.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love You With All My Heart",
+      "artist": "Crush",
+      "has_synced": true,
+      "path": "select/11_Love_You_With_All_My_Heart_Crush.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "With All My Heart feat. JVKE",
+      "artist": "ILLENIUM",
+      "has_synced": true,
+      "path": "select/12_With_All_My_Heart_feat._JVKE_ILLENIUM.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "With All My Heart",
+      "artist": "ILLENIUM feat. JVKE",
+      "has_synced": true,
+      "path": "select/13_With_All_My_Heart_ILLENIUM_feat._JVKE.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "With All My Heart",
+      "artist": "ILLENIUM, JVKE",
+      "has_synced": true,
+      "path": "select/14_With_All_My_Heart_ILLENIUM,_JVKE.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "With All My Heart",
+      "artist": "Joann Rosario",
+      "has_synced": false,
+      "path": "select/15_With_All_My_Heart_Joann_Rosario.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "With All My Heart",
+      "artist": "ILLENIUM",
+      "has_synced": true,
+      "path": "select/16_With_All_My_Heart_ILLENIUM.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "With All My Heart - Live",
+      "artist": "Desperation Band",
+      "has_synced": false,
+      "path": "select/17_With_All_My_Heart_-_Live_Desperation_Band.txt"
+    }
+  ]
+}
